@@ -4,5 +4,6 @@ Este es el archivo de presentación
 
 2: Gonzalo Carrasco. Hermano de José Manuel Carrasco.
 
+Hola que tal, este es un mensaje de otro usuario.
 
 3: Francisco Carrasco. Hermano de al medio de José Manuel Carrasco.
